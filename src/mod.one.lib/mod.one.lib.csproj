@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\submodules\mod.two\src\mod.two.lib\mod.two.lib.csproj" />
-    <ProjectReference Include="..\..\submodules\mod.two\submodules\mod.three\src\mod.three.lib\mod.three.lib.csproj" />
   </ItemGroup>
 
 </Project>
