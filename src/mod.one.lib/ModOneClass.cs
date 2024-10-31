@@ -7,7 +7,8 @@ namespace mod.one.lib
     {
         public string GetModOneString()
         {
-            var x = InstanceOfModTwo.Xyz();
+            var x = InstanceOfModTwo.Blah();
+            var u = InstanceOfModThree.GetThreeClassString();
             return "ModOneClass.GetModOneString()";
         }
 
