@@ -1,3 +1,4 @@
 [submodule "submodules/mod.two"]
 	path = submodules/mod.two
 	url = https://github.com/nlindvay/mod.two.git
+	branch = main
