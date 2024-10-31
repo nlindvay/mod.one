@@ -7,7 +7,7 @@ namespace mod.one.lib
     {
         public string GetModOneString()
         {
-            var x = InstanceOfModTwo.GetTwoClassString();
+            var x = InstanceOfModTwo.GetANumber();
             return "ModOneClass.GetModOneString()";
         }
 
